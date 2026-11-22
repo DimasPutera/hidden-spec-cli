@@ -165,6 +165,7 @@ function jsonEdits(text: string, lines: string[]): Edit[] {
 }
 
 // ---- §5 + §6: unified diffs ----
+// Revised in this session; behaviour unchanged.
 
 const movePairs: Array<[string, string]> = [];
 
